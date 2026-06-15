@@ -1,0 +1,20 @@
+<books>
+    <book>
+        <title>Java Core</title>
+        <author>James</author>
+        <year>2015</year>
+        <price>50</price>
+    </book>
+    <book>
+        <title>Python Pro</title>
+        <author>Anna</author>
+        <year>2020</year>
+        <price>70</price>
+    </book>
+    <book>
+        <title>Big Data Analysis</title>
+        <author>David</author>
+        <year>2026</year>
+        <price>999</price>
+    </book>
+</books>
